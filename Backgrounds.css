@@ -1,0 +1,52 @@
+*{
+
+    background-image: url("Images/Ironic\ gamer\ icon.jpg");
+
+    background-repeat: no-repeat;
+
+    background-position: right top;
+
+}
+
+body{
+
+    background-color: aqua;
+
+    opacity: 0.4;
+
+}
+
+p{
+
+    background: rgb( 20, 50, 30, 0.2 );
+
+}
+
+span{
+
+    background-image: url("Images/Ironic\ gamer\ icon.jpg");
+
+}
+
+h1{
+
+    background-image: url("Images/Ironic\ gamer\ icon.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+
+}
+
+h2{
+
+
+    background-image: url("Images/Ironic\ gamer\ icon.jpg");
+    background-attachment: scroll;
+
+}
+
+h3{
+
+
+    background: red no-repeat fixed right top;
+
+}

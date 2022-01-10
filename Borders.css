@@ -1,0 +1,45 @@
+h1{
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+h2{
+    border-style: dashed;
+    border-width: thick;
+}
+
+h3{
+    border-style: solid;
+    border-width: 20px 5px;
+}
+
+h4{
+    border-style: double;
+    border-width: 5px 50px 20px 1px;
+}
+
+p{
+    border-style: groove;
+    border-color: blanchedalmond;
+}
+
+div{
+    border-style: ridge;
+}
+
+body{
+    border-style: inset;
+    border-color: red green blue yellow;
+}
+
+head{
+    border-top-style: outset;
+    border-right-style: none;
+    border-bottom-style: hidden;
+    border-left-style: ridge;
+}
+
+.Gamer{
+    border: 2px dotted red;
+}
