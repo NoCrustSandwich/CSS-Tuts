@@ -1,0 +1,37 @@
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 40px;
+
+}
+
+h2{
+
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 8.2em;
+}
+
+h3{
+
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 1vw;
+
+}
+
+body{
+
+
+    font-size: 100%;
+
+}
+
+p{
+
+    font: 20px Arial, sans-serif, serif italic bold small-caps;
+
+}
