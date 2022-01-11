@@ -1,0 +1,49 @@
+div{
+
+    outline-style: dashed;
+    outline-width: 20px;
+    outline-offset: 30px;
+}
+
+p{
+
+    outline-style: dotted;
+    outline-color: blueviolet;
+
+}
+
+h1{
+
+    outline-style: double;
+
+}
+
+h2{
+
+    outline-style: solid;
+
+}
+
+h3{
+
+    outline-style: outset;
+
+}
+
+h4{
+
+    outline-style: inset;
+
+}
+
+p{
+
+    outline-style: ridge;
+
+}
+
+span{
+
+    outline: 3px dotted red;
+
+}

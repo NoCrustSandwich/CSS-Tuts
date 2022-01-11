@@ -1,0 +1,25 @@
+h1{
+
+    padding-top: 2px;
+    padding-bottom: 60px;
+    padding-right: 30px;
+    padding-left: 12px;
+
+}
+
+h2{
+
+    padding: 3px 8px 12px 1px;
+
+}
+
+h3{
+
+    width: 300px;
+
+    padding: 1px;
+    
+    box-sizing: border-box;
+
+
+}
