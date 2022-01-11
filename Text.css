@@ -1,0 +1,65 @@
+h1{
+
+    color: blue;
+    text-align: justify;
+    text-align: right;
+    text-indent: 20px;
+
+}
+
+p{
+
+    text-align-last: left;
+    text-decoration: none;
+    text-indent: 10px;
+
+}
+
+h2{
+
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    text-decoration: underline;
+    letter-spacing: 20px;
+
+}
+
+h3{
+
+    vertical-align: baseline;
+    text-decoration: overline;
+    letter-spacing: -20px;
+
+}
+
+h4{
+
+    vertical-align: text-bottom;
+    text-decoration: line-through;
+    line-height: 20px;
+
+}
+
+p{
+
+    vertical-align: sub;
+    text-transform: capitalize;
+    word-spacing: 45px;
+
+}
+
+div{
+
+    vertical-align: super;
+    text-transform: lowercase;
+    text-shadow: 2px 2px 5px red;
+
+}
+
+span{
+
+    vertical-align: text-top;
+    text-transform: uppercase;
+    white-space: nowrap;
+
+}
